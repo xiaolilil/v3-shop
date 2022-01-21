@@ -77,8 +77,6 @@
 
 
 
-
-
          return {age,user,xm,a,b, add,increaseage,changeName,changeV}
      }
  }
